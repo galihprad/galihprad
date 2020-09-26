@@ -1,4 +1,4 @@
-### 👋Hi, lets checkout my personal blog http://galihprad.github.io/
+### 👋Hi, lets checkout my personal blog [galihprad.github.io](https://galihprad.github.io).
 
 
 <!--

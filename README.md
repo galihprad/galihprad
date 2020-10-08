@@ -1,5 +1,5 @@
 👋😊 Assalamu'alaikum, let's checkout my personal blog
-### [galihprad.github.io](https://galihprad.github.io)
+### [galihprad.github.io](https://galihprad.github.io) (coming soon)
 
 
 <!--

@@ -1,8 +1,8 @@
 
 
 👋😊 Assalamu'alaikum, let's checkout my blog
-### ☘️  [galihprad.github.io](https://galihprad.github.io) (beta)
-
+###   [galihprad.github.io](https://galihprad.github.io) (beta)
+# ☘️
 
 <!--
 **galihprad/galihprad** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

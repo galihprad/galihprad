@@ -1,7 +1,7 @@
 
 
 👋😊 Assalamu'alaikum, let's checkout my blog
-###   [galihprad.github.io](https://galihprad.github.io) (beta)
+#   [galihprad.github.io](https://galihprad.github.io) (beta)
 # ☘️
 
 <p><img src="https://github-readme-stats.vercel.app/api?username=galihprad&show_icons=true&theme=prussian&locale=en" alt="galihprad" /></p>

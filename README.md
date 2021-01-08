@@ -2,11 +2,12 @@
 
 👋 Assalamu'alaikum, let's checkout my blog
 ##   [galihprad.github.io](https://galihprad.github.io) (beta)
-## 
+## 👨🏻‍💻
 
 ### Open Source
 <table>
 <!--   <thead align="center">
+<p><img src="https://github-readme-stats.vercel.app/api?username=galihprad&show_icons=true&theme=gotham&locale=en" alt="galihprad" /></p>
     <tr border: none;>
       <td><b>🎁 Projects</b></td>
       <td><b>⭐ Stars</b></td>
@@ -26,6 +27,4 @@
   </tbody>
 </table>
 
-## 👨🏻‍💻
-<p><img src="https://github-readme-stats.vercel.app/api?username=galihprad&show_icons=true&theme=gotham&locale=en" alt="galihprad" /></p>
 

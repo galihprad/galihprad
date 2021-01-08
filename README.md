@@ -1,7 +1,7 @@
 
 
 👋😊 Assalamu'alaikum, let's checkout my blog
-#   [galihprad.github.io](https://galihprad.github.io) (beta)
+##   [galihprad.github.io](https://galihprad.github.io) (beta)
 ## ☘️
 
 ### Open Source

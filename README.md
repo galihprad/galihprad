@@ -20,7 +20,7 @@
     </tr>
           <tr>
       <td><a href="https://github.com/galihprad/math-js"><b>math-js</b></a></td>
-       <td>Some Math function written in JS</td>
+       <td>Some Math functions written in JS</td>
       <td><img alt="Stars" src="https://img.shields.io/github/stars/galihprad/math-js?style=flat-square&labelColor=343b41"/></td>
     </tr>
   </tbody>

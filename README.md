@@ -21,7 +21,7 @@
     </tr>
           <tr>
       <td><a href="https://github.com/galihprad/math-js"><b>math-js</b></a></td>
-       <td>Some Math functions written in JS</td>
+       <td>Some Math formulas written in JS</td>
       <td><a href="https://github.com/galihprad/math-js"><img alt="Stars" src="https://img.shields.io/github/stars/galihprad/math-js?style=flat&labelColor=343b41"/></a></td>
     </tr>
   </tbody>

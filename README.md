@@ -19,6 +19,7 @@
     </tr>
   </tbody>
 </table>
+
 ## 👨🏻‍💻
 <p><img src="https://github-readme-stats.vercel.app/api?username=galihprad&show_icons=true&theme=gotham&locale=en" alt="galihprad" /></p>
 

@@ -31,7 +31,7 @@
 
 ### Contribution
 
-[![Twitter Badge](https://img.shields.io/badge/-@gpwisnujati-2196f3?style=flat-square&labelColor=2196f3&logo=twitter&logoColor=white&link=https://twitter.com/galihwisnujati)](https://twitter.com/gpwisnujati)
+[![Twitter Badge](https://img.shields.io/badge/-@gpwisnujati-58a6ff?style=flat-square&labelColor=58a6ff&logo=twitter&logoColor=white&link=https://twitter.com/galihwisnujati)](https://twitter.com/gpwisnujati)
 
 
 

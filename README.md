@@ -5,7 +5,7 @@
 
 ## 👨🏻‍💻
 
-[![Twitter Badge](https://img.shields.io/badge/-@galihwisnujati-58a6ff?style=flat-square&labelColor=58a6ff&logo=twitter&logoColor=white&link=https://twitter.com/galihwisnujati)](https://twitter.com/galihwisnujati)
+[![Twitter Badge](https://img.shields.io/badge/-@gpwisnujati-58a6ff?style=flat-square&labelColor=58a6ff&logo=twitter&logoColor=white&link=https://twitter.com/galihwisnujati)](https://twitter.com/gpwisnujati)
 
 
 ### Open Source

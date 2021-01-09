@@ -3,9 +3,9 @@
 👋 Assalamu'alaikum, let's checkout my blog
 ##   [galihprad.github.io](https://galihprad.github.io) (beta)
 
-##
-
-## 👨🏻‍💻  [![Twitter Badge](https://img.shields.io/badge/-@gpwisnujati-3068be?style=flat-square&labelColor=3068be&logo=twitter&logoColor=white&link=https://twitter.com/galihwisnujati)](https://twitter.com/gpwisnujati)
+## 👨🏻‍💻  
+<!-- 
+[![Twitter Badge](https://img.shields.io/badge/-@gpwisnujati-3068be?style=flat-square&labelColor=3068be&logo=twitter&logoColor=white&link=https://twitter.com/galihwisnujati)](https://twitter.com/gpwisnujati) -->
 
 ###
 

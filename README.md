@@ -4,7 +4,8 @@
 ##   [galihprad.github.io](https://galihprad.github.io) (beta)
 
 ## 👨🏻‍💻
-[![Twitter Badge](https://img.shields.io/badge/-@galihwisnujati-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/galihwisnujati)](https://twitter.com/galihwisnujati)
+[![Twitter Badge](https://img.shields.io/badge/-@galihwisnujati-58a6ff?style=flat-square&labelColor=58a6ff&logo=twitter&logoColor=white&link=https://twitter.com/galihwisnujati)](https://twitter.com/galihwisnujati)
+
 ### Open Source
 <table>
 <!--   <thead align="center">

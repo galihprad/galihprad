@@ -5,8 +5,6 @@
 
 ## 👨🏻‍💻
 
-[![Twitter Badge](https://img.shields.io/badge/-@gpwisnujati-37474f?style=flat-square&labelColor=37474f&logo=twitter&logoColor=white&link=https://twitter.com/galihwisnujati)](https://twitter.com/gpwisnujati)
-
 
 ### Open Source
 <table>
@@ -32,5 +30,8 @@
 </table>
 
 ### Contribution
+
+[![Twitter Badge](https://img.shields.io/badge/-@gpwisnujati-37474f?style=flat-square&labelColor=37474f&logo=twitter&logoColor=white&link=https://twitter.com/galihwisnujati)](https://twitter.com/gpwisnujati)
+
 
 

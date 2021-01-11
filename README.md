@@ -28,6 +28,6 @@
 </table>
 
 
-![](https://komarev.com/ghpvc/?username=galihprad&label=&color=grey)
+<!--  ![](https://komarev.com/ghpvc/?username=galihprad&label=&color=grey)  -->
 
 

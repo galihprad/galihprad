@@ -19,11 +19,6 @@
     </tr>
   </thead> -->
   <tbody>
-    <tr>
-      <td><a href="https://github.com/galihprad/belajar-react"><b>Belajar React</b></a></td>
-       <td>Resource for learning React</td>
-      <td><a href="https://github.com/galihprad/belajar-react"><img alt="Stars" src="https://img.shields.io/github/stars/galihprad/belajar-react?style=flat&labelColor=343b41"/></a></td>
-    </tr>
           <tr>
       <td><a href="https://github.com/galihprad/math-js"><b>math-js</b></a></td>
        <td>Some Math formulas written in JS</td>
